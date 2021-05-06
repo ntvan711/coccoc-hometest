@@ -3,7 +3,7 @@ declare(strict_types=1);
 
 /**
  * @copyright Copyright (c) 2021
- * @author Thang Nguyen
+ * @author Van Nguyen
  * @since 1.0
  */
 

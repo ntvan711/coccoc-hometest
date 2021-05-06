@@ -3,14 +3,14 @@ declare(strict_types=1);
 
 /**
  * @copyright Copyright (c) 2021
- * @author Thang Nguyen
+ * @author Van Nguyen
  * @since 1.0
  */
 
 namespace Coccoc\ShippingService\Providers;
 
 use Coccoc\ShippingService\Contracts\ProviderInterface;
-use Coccoc\ShippingService\Abstracts\Provider;
+use ShippingService\Abstracts\Provider;
 
 class AmazonProvider extends Provider implements ProviderInterface
 {
